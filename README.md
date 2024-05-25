@@ -2,13 +2,6 @@
 
 Check this link for our team's work process and result: https://windboy.pusan.ac.kr/issue/issueView?idx=863
 
-<details>
-<summary>1st Place Award 🥇</summary>
-<div markdown="1">
-<img width="678" alt="1st place award" src="https://github.com/JinukHong/shadowFunk/assets/45095330/b344f614-e939-489c-8d42-16b3ea834df3">
-</div>
-</details>
-
 
 ## Presentation
 
