@@ -1,7 +1,5 @@
 # shadowFunk
 
-Check this link for our team's work process and result: https://windboy.pusan.ac.kr/issue/issueView?idx=863
-
 
 ## Presentation
 
@@ -9,7 +7,6 @@ Check this link for our team's work process and result: https://windboy.pusan.ac
 <img width="1470" alt="image" src="https://github.com/JinukHong/shadowFunk/assets/45095330/326ba334-841f-4069-af52-b4c3a6cc8057">
 <img width="1470" alt="image" src="https://github.com/JinukHong/shadowFunk/assets/45095330/f3665cd3-129a-4f88-83db-2de486f36f7b">
 <img width="1470" alt="image" src="https://github.com/JinukHong/shadowFunk/assets/45095330/3ea163a0-11f6-4af4-a84f-a15b1df4e35d">
-<img width="1470" alt="image" src="https://github.com/JinukHong/shadowFunk/assets/45095330/1118f045-9121-493d-995b-b40307ab01b8">
 <img width="1470" alt="image" src="https://github.com/JinukHong/shadowFunk/assets/45095330/dfb33890-6e5d-43a6-bd3d-ae400ec6e1b2">
 <img width="1470" alt="image" src="https://github.com/JinukHong/shadowFunk/assets/45095330/ccfa06fb-3c91-4430-b048-ac2fd397bf53">
 <img width="1470" alt="image" src="https://github.com/JinukHong/shadowFunk/assets/45095330/d2685ef2-a80e-4637-9f27-7a3474456506">
